@@ -59,7 +59,7 @@
     "daemons": [
         {
         "host": "node1-mainnet.bithereum.network",
-        "port": 8332,
+        "port": 19554,
         "user": "bithereum",
         "password": "bithereum"
         }
@@ -68,7 +68,7 @@
     "p2p": {
         "enabled": false,
         "host": "node1-mainnet.bithereum.network",
-        "port": 19333,
+        "port": 19553,
         "disableTransactions": true
     },
 
