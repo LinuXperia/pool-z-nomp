@@ -36,7 +36,7 @@
         "maxBlocksPerPayment": 3,
         "daemon": {
             "host": "node1-mainnet.bithereum.network",
-            "port": 8332,
+            "port": 19554,
             "user": "bithereum",
             "password": "bithereum"
         }
